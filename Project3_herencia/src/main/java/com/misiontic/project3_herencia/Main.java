@@ -15,7 +15,7 @@ public class Main {
         System.out.println(employee.getAge());
         
         Leader leader = new Leader("pedro", 25);
-        leader.setReponsability("liderti");
+        leader.setReponsability("lider-ti");
         System.out.println(leader.getReponsability());
         
         Watchman donJediondo = new Watchman("Don Jediondo", 55); 
