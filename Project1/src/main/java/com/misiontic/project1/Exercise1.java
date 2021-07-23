@@ -65,7 +65,6 @@ public class Exercise1 {
         } else {
             System.out.println("No se encontraron coincidencias. " + nombreABuscar);
         }
-        
     }
     
     public Person[] searchFullName(String fullName){
